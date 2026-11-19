@@ -85,55 +85,38 @@ The project documents the complete environment through screenshots and recorded 
 - Joined computers to the Active Directory domain
 - Used AD PowerShell modules for repeatable administration
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── images/
-│   ├── Ad users and computers.png
-│   ├── Account lockout policy.png
-│   ├── Password reset.png
-│   ├── Disabling account.png
-│   ├── Onboarding AdUsers.png
-│   ├── Joining or onboarding computers to the Active Directory.png
-│   ├── password policy.png
-│   ├── Group policy update.png
-│   ├── enforce.png
-│   ├── usb policy.png
-│   ├── USb Restriction.png
-│   └── local account.png
-└── videos/
-    ├── Creating OU in active directory.mp4
-    ├── Joining Computers to the Active Directory powershell.mp4
-    └── Onboarding AdUsers with powershell automation.mp4
-```
 
 ## Evidence Gallery
 
-### Organizational Structure and User Administration
+The gallery below uses two equal-width columns so every screenshot displays side by side in pairs.
 
-| Active Directory Users and Computers | Onboarding with PowerShell |
-|---|---|
-| [![AD Users and Computers](images/Ad%20users%20and%20computers.png)](images/Ad%20users%20and%20computers.png) | [![AD User Onboarding](images/Onboarding%20AdUsers.png)](images/Onboarding%20AdUsers.png) |
+<table width="100%">
+  <tr>
+    <td width="50%" align="center"><strong>Active Directory Users and Computers</strong><br><a href="images/Ad%20users%20and%20computers.png"><img src="images/Ad%20users%20and%20computers.png" alt="Active Directory Users and Computers" width="100%"></a></td>
+    <td width="50%" align="center"><strong>User onboarding with PowerShell</strong><br><a href="images/Onboarding%20AdUsers.png"><img src="images/Onboarding%20AdUsers.png" alt="Active Directory user onboarding with PowerShell" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>Joining a computer to the domain</strong><br><a href="images/Joining%20or%20onboarding%20computers%20to%20the%20Active%20Directory.png"><img src="images/Joining%20or%20onboarding%20computers%20to%20the%20Active%20Directory.png" alt="Joining a computer to Active Directory" width="100%"></a></td>
+    <td width="50%" align="center"><strong>Local account</strong><br><a href="images/local%20account.png"><img src="images/local%20account.png" alt="Local account configuration" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>Password reset</strong><br><a href="images/Password%20reset.png"><img src="images/Password%20reset.png" alt="Active Directory password reset" width="100%"></a></td>
+    <td width="50%" align="center"><strong>Account disable</strong><br><a href="images/Disabling%20account.png"><img src="images/Disabling%20account.png" alt="Disabling an Active Directory account" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>Account lockout policy</strong><br><a href="images/Account%20lockout%20policy.png"><img src="images/Account%20lockout%20policy.png" alt="Account lockout policy" width="100%"></a></td>
+    <td width="50%" align="center"><strong>Password policy</strong><br><a href="images/password%20policy.png"><img src="images/password%20policy.png" alt="Password policy" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>Group Policy update</strong><br><a href="images/Group%20policy%20update.png"><img src="images/Group%20policy%20update.png" alt="Group Policy update" width="100%"></a></td>
+    <td width="50%" align="center"><strong>USB restriction</strong><br><a href="images/USb%20Restriction.png"><img src="images/USb%20Restriction.png" alt="USB device restriction" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><strong>Policy enforcement</strong><br><a href="images/enforce.png"><img src="images/enforce.png" alt="Group Policy enforcement" width="100%"></a></td>
+    <td width="50%" align="center"><strong>USB policy</strong><br><a href="images/usb%20policy.png"><img src="images/usb%20policy.png" alt="USB storage policy" width="100%"></a></td>
+  </tr>
+</table>
 
-### Computer and Account Management
-
-| Domain Join | Local Account | Password Reset | Account Disable |
-|---|---|---|---|
-| [![Domain Join](images/Joining%20or%20onboarding%20computers%20to%20the%20Active%20Directory.png)](images/Joining%20or%20onboarding%20computers%20to%20the%20Active%20Directory.png) | [![Local Account](images/local%20account.png)](images/local%20account.png) | [![Password Reset](images/Password%20reset.png)](images/Password%20reset.png) | [![Account Disable](images/Disabling%20account.png)](images/Disabling%20account.png) |
-
-### Security and Group Policy
-
-| Account Lockout Policy | Password Policy | Policy Update |
-|---|---|---|
-| [![Account Lockout](images/Account%20lockout%20policy.png)](images/Account%20lockout%20policy.png) | [![Password Policy](images/password%20policy.png)](images/password%20policy.png) | [![Group Policy Update](images/Group%20policy%20update.png)](images/Group%20policy%20update.png) |
-
-| USB Restriction | Policy Enforcement |
-|---|---|
-| [![USB Restriction](images/USb%20Restriction.png)](images/USb%20Restriction.png) | [![Policy Enforcement](images/enforce.png)](images/enforce.png) |
-
-Additional removable-storage documentation is available in [USB policy](images/usb%20policy.png).
 
 ##  Video Demonstrations
 
