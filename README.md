@@ -101,19 +101,19 @@ The gallery below uses two equal-width columns so every screenshot displays side
   </tr>
   <tr>
     <td width="50%" align="center"><strong>Password reset</strong><br><a href="images/Password%20reset.png"><img src="images/Password%20reset.png" alt="Active Directory password reset" width="100%"></a></td>
-    <td width="50%" align="center"><strong>Account disable</strong><br><a href="images/Disabling%20account.png"><img src="images/Disabling%20account.png" alt="Disabling an Active Directory account" width="100%"></a></td>
+    <td width="50%" align="center"><strong>User Account disable/offboarding</strong><br><a href="images/Disabling%20account.png"><img src="images/Disabling%20account.png" alt="Disabling an Active Directory account" width="100%"></a></td>
   </tr>
   <tr>
     <td width="50%" align="center"><strong>Account lockout policy</strong><br><a href="images/Account%20lockout%20policy.png"><img src="images/Account%20lockout%20policy.png" alt="Account lockout policy" width="100%"></a></td>
     <td width="50%" align="center"><strong>Password policy</strong><br><a href="images/password%20policy.png"><img src="images/password%20policy.png" alt="Password policy" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%" align="center"><strong>Group Policy update</strong><br><a href="images/Group%20policy%20update.png"><img src="images/Group%20policy%20update.png" alt="Group Policy update" width="100%"></a></td>
-    <td width="50%" align="center"><strong>USB restriction</strong><br><a href="images/USb%20Restriction.png"><img src="images/USb%20Restriction.png" alt="USB device restriction" width="100%"></a></td>
+    <td width="50%" align="center"><strong>USB restriction policy</strong><br><a href="images/USb%20Restriction.png"><img src="images/USb%20Restriction.png" alt="USB device restriction" width="100%"></a></td>
+    <td width="50%" align="center"><strong>Policy enforcement</strong><br><a href="images/enforce.png"><img src="images/enforce.png" alt="Group Policy enforcement" width="100%"></a></td>
   </tr>
   <tr>
-    <td width="50%" align="center"><strong>Policy enforcement</strong><br><a href="images/enforce.png"><img src="images/enforce.png" alt="Group Policy enforcement" width="100%"></a></td>
     <td width="50%" align="center"><strong>USB policy</strong><br><a href="images/usb%20policy.png"><img src="images/usb%20policy.png" alt="USB storage policy" width="100%"></a></td>
+    <td width="50%" align="center"><strong>Group Policy update</strong><br><a href="images/Group%20policy%20update.png"><img src="images/Group%20policy%20update.png" alt="Group Policy update" width="100%"></a></td>
   </tr>
 </table>
 
